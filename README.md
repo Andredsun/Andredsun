@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Andredsun
-- 👀 I’m interested in Coding, New Technologies, Electronics, Blender, Meditation and Buddhism
-- 🌱 I’m currently learning Blockchain, Smart contracts, TypeScript, Buddhism
+- 👀 I’m interested in Coding, New Technologies, Electronics, Blender, Meditation, Buddhism and Wood
+- 🌱 I’m currently learning Blockchain, Smart contracts, TypeScript, Buddhism, Wood manufacturing
 - 💞️ I’m looking to collaborate on: all of the above
 
 
